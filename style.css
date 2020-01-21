@@ -1,0 +1,86 @@
+body{
+  background-color: #e4f9ff;
+  margin:0px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+h1{
+  font-family:'Sacramento', cursive;
+  font-size:80px;
+  margin:0 auto 0 auto;
+}
+.underline{
+  text-decoration: underline;
+}
+
+.divred{
+  background-color: red;
+  border:0;
+  position:absolute;
+  left:200px;
+  width:100px;
+  height:100px
+}
+.pro{
+  text-decoration:underline;
+}
+.bluediv{
+  background-color:blue;
+  border: 0;
+  margin:0px;
+  width:100px;
+  height:100px}
+.yellowdiv{
+  margin:0px;
+  background-color:yellow;
+  border:0;
+  position:relative;
+  left:100px;
+  width:100px;
+  height:100px;}
+  .top-container{
+    position:relative;
+    padding-top: 200px;
+
+  }
+#top-cloud{
+  position:absolute;
+  right:300px;
+  top:10px;
+}
+
+
+#bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom:250px;
+}
+.mountain{
+  width:500px;
+  height:400px;
+}
+.bottom-container{
+  text-align: left;
+  width:40%;
+  margin:auto;
+}
+.lefticons{
+  border-radius: 100%;
+  height:100px;
+  width:100px;
+  float:left;
+  margin-right:30px;
+}
+.righticons{
+  border-radius: 100%;
+  height:100px;
+  width:100px;
+  float:right;
+  margin-left:30px;
+
+}
+.imgcenter{
+  border-radius:100%;
+  width:250px;
+  weight:250px;
+}
