@@ -95,3 +95,7 @@ h1{
   width:250px;
   height:200px;
 }
+.imgcenter:hover {
+  
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
